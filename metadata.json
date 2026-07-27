@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix:  AUTOMAX Ultima versão 6.0",
+  "description": "",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
